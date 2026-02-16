@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Ashik
 
-<!--
-**ashik1845/ashik1845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack MERN Developer  
+🎓 BE CSE Student  
+💡 Interested in building scalable web applications  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Frontend: React.js, HTML, CSS, Javascript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Netlify, Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+- Smart Placement Tracker – MERN app with JWT authentication & dashboard
+- ICU Alert System – Real-time alert-based application
+
+## 📈 Currently Learning
+- Advanced Backend Architecture
+- DSA in Java
+- System Design Basics
+
+## 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/ashikm1845/
